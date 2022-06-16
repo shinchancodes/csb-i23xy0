@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://shinchancodes.github.io/csb-i23xy0/static/css/main.8dc0f8fc.chunk.css",
+    "main.js": "https://shinchancodes.github.io/csb-i23xy0/static/js/main.f87f5b26.chunk.js",
+    "main.js.map": "https://shinchancodes.github.io/csb-i23xy0/static/js/main.f87f5b26.chunk.js.map",
+    "runtime-main.js": "https://shinchancodes.github.io/csb-i23xy0/static/js/runtime-main.3eaa6958.js",
+    "runtime-main.js.map": "https://shinchancodes.github.io/csb-i23xy0/static/js/runtime-main.3eaa6958.js.map",
+    "static/js/2.b8093c6a.chunk.js": "https://shinchancodes.github.io/csb-i23xy0/static/js/2.b8093c6a.chunk.js",
+    "static/js/2.b8093c6a.chunk.js.map": "https://shinchancodes.github.io/csb-i23xy0/static/js/2.b8093c6a.chunk.js.map",
+    "index.html": "https://shinchancodes.github.io/csb-i23xy0/index.html",
+    "static/css/main.8dc0f8fc.chunk.css.map": "https://shinchancodes.github.io/csb-i23xy0/static/css/main.8dc0f8fc.chunk.css.map",
+    "static/js/2.b8093c6a.chunk.js.LICENSE.txt": "https://shinchancodes.github.io/csb-i23xy0/static/js/2.b8093c6a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3eaa6958.js",
+    "static/js/2.b8093c6a.chunk.js",
+    "static/css/main.8dc0f8fc.chunk.css",
+    "static/js/main.f87f5b26.chunk.js"
+  ]
+}
